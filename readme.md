@@ -16,5 +16,5 @@ CNN介绍：
 
 ---
 3.深度学习书籍内容
-大话数据分析pandas
-python 深度学习理论
+- 大话数据分析pandas
+- python 深度学习理论
